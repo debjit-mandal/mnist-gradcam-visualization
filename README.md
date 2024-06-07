@@ -27,8 +27,8 @@ This project demonstrates an advanced implementation of a handwritten digit reco
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mnist-gradcam-project.git
-   cd mnist-gradcam-project
+   git clone https://github.com/debjit-mandal/mnist-gradcam-visualization.git
+   cd mnist-gradcam-visualization
    ```
 
 2. Install the required packages:
