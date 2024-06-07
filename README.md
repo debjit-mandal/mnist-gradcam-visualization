@@ -56,9 +56,6 @@ This project demonstrates an advanced implementation of a handwritten digit reco
 4. Evaluate the model on the test dataset.
 5. Generate Grad-CAM heatmaps to visualize class-discriminative regions.
 
-## Results
-
-Include some results or sample images here.
 
 ## Grad-CAM Visualization
 
@@ -76,3 +73,6 @@ This project is licensed under the MIT License.
 
 - The MNIST dataset is provided by Yann LeCun and can be downloaded from [here](http://yann.lecun.com/exdb/mnist/).
 - The Grad-CAM implementation is based on the work by Ramprasaath R. Selvaraju et al.
+
+-------------------------------------------------------------------------------------------------------------------
+Feel free to suggest any kind of improvements.
